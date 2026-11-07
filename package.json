@@ -1,0 +1,13 @@
+{
+  "name": "autoclipper-web",
+  "version": "1.0.0",
+  "private": true,
+  "description": "AutoClipper AI - Local-First AI Video Clipping Studio",
+  "scripts": {
+    "dev": "npm --prefix frontend run dev",
+    "build": "npm --prefix frontend run build",
+    "start": "npm --prefix frontend run start",
+    "lint": "npm --prefix frontend run lint"
+  }
+}
+
